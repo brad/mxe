@@ -2,6 +2,6 @@
 
 language: cpp
 install:
-  sudo apt-get install autopoint intltoolize
+  sudo apt-get install autopoint intltool
 script:
   make mpfr eigen opencsg cgal qt
