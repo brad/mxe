@@ -1,0 +1,5 @@
+---
+
+language: cpp
+script:
+  make mpfr eigen opencsg cgal qt
